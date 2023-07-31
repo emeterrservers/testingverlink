@@ -41,8 +41,8 @@ module.exports = {
             hostProtected to true and set your own Username and Password
         */
         protected: false,
-        username: 'verlinkpaa',
-        password: 'paaverlink',
+        username: 'username',
+        password: 'password',
     },
     console: {
         debug: true,
@@ -59,7 +59,7 @@ module.exports = {
     },
     api: {
         // app/api
-        keySecret: 'verlink_default_secret',
+        keySecret: 'mirotalksfu_default_secret',
     },
     sentry: {
         /*
