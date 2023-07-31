@@ -47,6 +47,7 @@
         "mediasoup-client": "3.6.98",
         "ngrok": "^4.3.3",
         "openai": "^3.3.0",
+        "pm2": "^5.2.2",
         "qs": "6.11.2",
         "socket.io": "4.7.1",
         "swagger-ui-express": "5.0.0",
