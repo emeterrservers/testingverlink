@@ -2,8 +2,8 @@
 import requests
 import json
 
-API_KEY = "mirotalksfu_default_secret"
-MIROTALK_URL = "https://sfu.mirotalk.com/api/v1/join"
+API_KEY = "verlink_default_secret"
+MIROTALK_URL = "https://verlink2.onrender.com/api/v1/join"
 # MIROTALK_URL = "http://localhost:3010/api/v1/join"
 
 headers = {
@@ -14,7 +14,7 @@ headers = {
 data = {
     "room": "test",
     "password": "false",
-    "name": "mirotalksfu",
+    "name": "verlink",
     "audio": "true",
     "video": "true",
     "screen": "true",
