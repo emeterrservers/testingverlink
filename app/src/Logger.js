@@ -4,7 +4,7 @@ const util = require('util');
 
 const colors = require('colors');
 
-const config = require('./config');
+const config = require('./config.js');
 
 config.console.colors ? colors.enable() : colors.disable();
 
