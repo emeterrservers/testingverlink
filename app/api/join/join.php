@@ -1,6 +1,6 @@
 <?php
 
-$API_KEY = "verlink_default_secret";
+$API_KEY = "mirotalksfu_default_secret";
 $MIROTALK_URL = "https://sfu.mirotalk.com/api/v1/join";
 // $MIROTALK_URL = "http://localhost:3010/api/v1/join";
 
