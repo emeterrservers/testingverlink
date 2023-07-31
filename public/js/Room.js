@@ -102,7 +102,6 @@ let joinRoomWithScreen = false;
 let initAudioButton = null;
 let initVideoButton = null;
 let initAudioVideoButton = null;
-let initSpeakerSelect = null
 let recTimer = null;
 let recElapsedTime = null;
 
