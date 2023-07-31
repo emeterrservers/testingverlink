@@ -2,8 +2,8 @@
 import requests
 import json
 
-API_KEY = "mirotalksfu_default_secret"
-MIROTALK_URL = "https://sfu.mirotalk.com/api/v1/meeting"
+API_KEY = "verlink_default_secret"
+MIROTALK_URL = "https://verlink2.onrender.com/api/v1/meeting"
 # MIROTALK_URL = "http://localhost:3010/api/v1/meeting"
 
 headers = {
