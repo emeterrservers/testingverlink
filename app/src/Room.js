@@ -1,7 +1,7 @@
 'use strict';
 
-const config = require('./config');
-const Logger = require('./Logger');
+const config = require('./config.js');
+const Logger = require('./Logger.js');
 const log = new Logger('Room');
 
 module.exports = class Room {
