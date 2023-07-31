@@ -1,7 +1,7 @@
 'use strict';
 
 const xss = require('xss');
-const Logger = require('./Logger');
+const Logger = require('./Logger.js');
 const log = new Logger('Xss');
 
 const checkXSS = (dataObject) => {
