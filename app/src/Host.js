@@ -1,6 +1,6 @@
 'use strict';
 
-const Logger = require('./Logger');
+const Logger = require('./Logger.js');
 const log = new Logger('Host');
 
 module.exports = class Host {
