@@ -18,7 +18,7 @@ async function getJoin() {
             body: JSON.stringify({
                 room: 'test',
                 password: false,
-                name: 'mirotalksfu',
+                name: 'verlinkpaa',
                 audio: true,
                 video: true,
                 screen: true,
